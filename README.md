@@ -282,3 +282,14 @@ Current tests demonstrate:
 
 This project provides a strong foundation to discuss during an interview, showing hands-on experience with production-style backend development using Java and Spring Boot.
 
+---
+
+## License
+
+This project is shared publicly to showcase learning, craftsmanship, and technical capabilities.  
+While the repository is accessible, the source code and all associated materials remain the intellectual property of the author.
+
+To maintain the integrity of this work, please refrain from reusing the code directly in other projects or redistributing it in any form.  
+If you wish to reference the project, linking to the repository is warmly appreciated.
+
+Thank you for respecting the spirit in which this work is made available.
